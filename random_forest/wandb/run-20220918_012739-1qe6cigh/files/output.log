@@ -1,0 +1,9 @@
+2022-09-18 01:27:40,427 Downloading and reading train artifact
+2022-09-18 01:27:41,422 Extracting target from dataframe
+2022-09-18 01:27:41,425 Splitting train/val
+2022-09-18 01:27:41,443 Setting up pipeline
+2022-09-18 01:27:41,446 Fitting
+2022-09-18 01:27:43,747 Scoring
+/Users/nakany/miniforge3/envs/mlflow-a0f0eabde6cd07ea660111d983face3a47af906a/lib/python3.9/site-packages/mlflow/models/signature.py:123: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  inputs = _infer_schema(model_input)
+wandb: Adding directory to artifact (/var/folders/yx/fy33dqks1kn5548y5qd_kpy80000gn/T/tmpmml7iu4s/model_export)... Done. 0.0s

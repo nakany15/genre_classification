@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nakany/projects/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/943e3363d750450ba1b59f213d49502e/artifacts
+end_time: 1663430779431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 943e3363d750450ba1b59f213d49502e
+run_uuid: 943e3363d750450ba1b59f213d49502e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663430778179
+status: 4
+tags: []
+user_id: nakany

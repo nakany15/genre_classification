@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.5.1-arm64-arm-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-09-17T16:23:08.224239",
+    "startedAt": "2022-09-17T16:23:07.204314",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "download_data.py",
+    "codePath": "lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/download/download_data.py",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": null,
+    "root": "/Users/nakany/projects/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "YusukenoMacBook-Air.local",
+    "username": "nakany",
+    "executable": "/Users/nakany/miniforge3/envs/mlflow-dcab57294d4c8d8af89cb670ca7f21a98adaaf45/bin/python"
+}
